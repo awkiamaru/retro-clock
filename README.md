@@ -1,5 +1,5 @@
-# retro-clock
-Terminar clock make in golang
+# RETRO-CLOCK
+Terminar clock make in golang 
 
 #### RUN APPLICATION
 ```
